@@ -28,7 +28,7 @@ Final model is integrated into a web-based interface
 How to Run
 Bash
 # Clone the repository
-git clone https://github.com/your-username/air-quality-prediction.git
+git clone https://github.com/nayana508/air-quality-prediction.git
 
 # Navigate to project folder
 cd air-quality-prediction
